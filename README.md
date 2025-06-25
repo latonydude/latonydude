@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🚧 **Мои задачи на ближайшее время:**
+<!-- TODO-IST:START -->
+* [ ] Пройти курс по Git на Slurm
+* [ ] Пройти курс "Сети в Linux" на Slurm        
+<!-- TODO-IST:END -->
